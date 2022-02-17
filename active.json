@@ -1,0 +1,10 @@
+[
+  {
+    "email": "sample1@gmail.com",
+    "active": "true"
+  },
+  {
+    "email": "sample2@gmail.com",
+    "active": "false"
+  }
+]
