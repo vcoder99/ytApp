@@ -1,10 +1,8 @@
 [
   {
-    "email": "sample1@gmail.com",
-    "active": "true"
+    "imei": "sample1@gmail.com"
   },
   {
-    "email": "sample2@gmail.com",
-    "active": "false"
+    "imei": "sample2@gmail.com"
   }
 ]
