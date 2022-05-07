@@ -5,12 +5,12 @@
 
   "icons": [
     {
-      "src": "images/logo192.png",
+      "src": "https://raw.githubusercontent.com/Beecoder01/ytApp/main/vsPWA/android-chrome-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "images/logo512.png",
+      "src": "https://raw.githubusercontent.com/Beecoder01/ytApp/main/vsPWA/android-chrome-512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
