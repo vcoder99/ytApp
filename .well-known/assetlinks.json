@@ -1,1 +1,10 @@
-test
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.testA.browser",
+    "sha256_cert_fingerprints": [
+      "87:63:34:2C:D0:57:C3:E1:4D:95:00:0A:ED:73:E4:CB:61:89:13:C7:47:53:F0:67:2F:C7:B3:C3:18:C7:1C:A0"
+    ]
+  }
+}]
